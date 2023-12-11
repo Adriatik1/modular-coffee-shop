@@ -1,0 +1,14 @@
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.deps.json
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.AssemblyInfo.cs
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\refint\Shared.Infrastructure.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\ref\Shared.Infrastructure.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.runtimeconfig.json
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.genruntimeconfig.cache

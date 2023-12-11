@@ -1,0 +1,11 @@
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\bin\Debug\net8.0\Module.Customer.deps.json
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\bin\Debug\net8.0\Module.Customer.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\bin\Debug\net8.0\Module.Customer.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\obj\Debug\net8.0\Module.Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\obj\Debug\net8.0\Module.Customer.AssemblyInfoInputs.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\obj\Debug\net8.0\Module.Customer.AssemblyInfo.cs
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\obj\Debug\net8.0\Module.Customer.csproj.CoreCompileInputs.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\obj\Debug\net8.0\Module.Customer.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\obj\Debug\net8.0\refint\Module.Customer.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\obj\Debug\net8.0\Module.Customer.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer\obj\Debug\net8.0\ref\Module.Customer.dll

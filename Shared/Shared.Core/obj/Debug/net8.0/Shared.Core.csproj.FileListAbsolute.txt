@@ -1,0 +1,11 @@
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\bin\Debug\net8.0\Shared.Core.deps.json
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\bin\Debug\net8.0\Shared.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\bin\Debug\net8.0\Shared.Core.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\Shared.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\Shared.Core.AssemblyInfoInputs.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\Shared.Core.AssemblyInfo.cs
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\Shared.Core.csproj.CoreCompileInputs.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\Shared.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\refint\Shared.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\Shared.Core.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\ref\Shared.Core.dll

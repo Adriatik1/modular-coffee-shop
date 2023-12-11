@@ -1,0 +1,12 @@
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\bin\Debug\net8.0\Module.Product.deps.json
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\bin\Debug\net8.0\Module.Product.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\bin\Debug\net8.0\Module.Product.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\obj\Debug\net8.0\Module.Product.csproj.AssemblyReference.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\obj\Debug\net8.0\Module.Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\obj\Debug\net8.0\Module.Product.AssemblyInfoInputs.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\obj\Debug\net8.0\Module.Product.AssemblyInfo.cs
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\obj\Debug\net8.0\Module.Product.csproj.CoreCompileInputs.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\obj\Debug\net8.0\Module.Product.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\obj\Debug\net8.0\refint\Module.Product.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\obj\Debug\net8.0\Module.Product.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product\obj\Debug\net8.0\ref\Module.Product.dll
