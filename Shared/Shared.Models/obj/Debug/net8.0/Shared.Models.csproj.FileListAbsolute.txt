@@ -9,3 +9,4 @@ C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Models\obj\Debug\
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Models\obj\Debug\net8.0\refint\Shared.Models.dll
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Models\obj\Debug\net8.0\Shared.Models.pdb
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Models\obj\Debug\net8.0\ref\Shared.Models.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Models\obj\Debug\net8.0\Shared.Models.sourcelink.json

@@ -9,3 +9,12 @@ C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Custome
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\obj\Debug\net8.0\refint\Module.Customer.Infrastructure.dll
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\obj\Debug\net8.0\Module.Customer.Infrastructure.pdb
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\obj\Debug\net8.0\ref\Module.Customer.Infrastructure.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\bin\Debug\net8.0\Shared.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\bin\Debug\net8.0\Shared.Core.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\obj\Debug\net8.0\Module.Customer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\obj\Debug\net8.0\Module.Customer.Infrastructure.sourcelink.json
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\obj\Debug\net8.0\Module.Customer.Infrastructure.csproj.CopyComplete
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\bin\Debug\net8.0\Module.Customer.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Infrastructure\bin\Debug\net8.0\Module.Customer.Core.pdb

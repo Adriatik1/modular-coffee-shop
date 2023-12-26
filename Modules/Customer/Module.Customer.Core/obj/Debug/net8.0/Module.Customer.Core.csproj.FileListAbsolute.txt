@@ -9,3 +9,8 @@ C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Custome
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Core\obj\Debug\net8.0\refint\Module.Customer.Core.dll
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Core\obj\Debug\net8.0\Module.Customer.Core.pdb
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Core\obj\Debug\net8.0\ref\Module.Customer.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Core\bin\Debug\net8.0\Shared.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Core\bin\Debug\net8.0\Shared.Core.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Core\obj\Debug\net8.0\Module.Customer.Core.csproj.AssemblyReference.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Core\obj\Debug\net8.0\Module.Customer.Core.sourcelink.json
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Customer\Module.Customer.Core\obj\Debug\net8.0\Module.Customer.Core.csproj.CopyComplete

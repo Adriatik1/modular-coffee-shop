@@ -9,3 +9,5 @@ C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\ne
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\refint\Shared.Core.dll
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\Shared.Core.pdb
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\ref\Shared.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\Shared.Core.sourcelink.json
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Core\obj\Debug\net8.0\Shared.Core.csproj.AssemblyReference.cache

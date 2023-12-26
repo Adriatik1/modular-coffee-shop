@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EFaylK8x4YWgmc6pxR+tfDyy0S+5hoBDFVK7NPBMJQZ3Mc5BpASdlF37+rM2vBuWvh/Axkprjm6hpBnAJGyo0A==",
+  "dgSpecHash": "/rNtyCI2amz3X3BdzNFOB5APw1BpB7zFlsTNf4sVPp7GDS0yUkkg8l5OL7/u2iPO/B2AckYHyDnNXMVqccvd1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Infrastructure\\Module.Product.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adriatik\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Adriatik\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\Adriatik\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Adriatik\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Adriatik\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Adriatik\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Adriatik\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",

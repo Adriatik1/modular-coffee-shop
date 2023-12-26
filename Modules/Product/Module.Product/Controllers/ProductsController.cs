@@ -6,13 +6,10 @@ namespace Module.Product.Controllers
     [Route("/api/product/[controller]")]
     internal class ProductsController : ControllerBase
     {
-
         [HttpGet]
         public async Task<IActionResult> GetAsync(CancellationToken cancellationToken)
         {
             return Ok();
         }
-
-
     }
 }

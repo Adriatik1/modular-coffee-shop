@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LD99Q8SpXGsLdQjRkgFm6SolBmA2bIGOyPogI3g8FD7woDBDF6jifnvF4cDA7mFhtBxkaJRco3ovtvvu70Z26w==",
+  "dgSpecHash": "I1F5FSTf+Dbv8HjgCYm4AsgCwhi4BaN202aw7d5XXP/TnvwfNttO9ojpO82MhRgI0POOdf9ouJbRiMwS4Syeng==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Core\\Shared.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Adriatik\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Adriatik\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Adriatik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

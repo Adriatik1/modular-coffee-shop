@@ -9,3 +9,12 @@ C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\obj\Debug\net8.0\refint\Module.Product.Infrastructure.dll
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\obj\Debug\net8.0\Module.Product.Infrastructure.pdb
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\obj\Debug\net8.0\ref\Module.Product.Infrastructure.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\bin\Debug\net8.0\Module.Product.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\bin\Debug\net8.0\Shared.Core.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.dll
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\bin\Debug\net8.0\Module.Product.Core.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\bin\Debug\net8.0\Shared.Core.pdb
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\obj\Debug\net8.0\Module.Product.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\obj\Debug\net8.0\Module.Product.Infrastructure.sourcelink.json
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Modules\Product\Module.Product.Infrastructure\obj\Debug\net8.0\Module.Product.Infrastructure.csproj.CopyComplete

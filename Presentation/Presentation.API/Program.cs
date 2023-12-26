@@ -1,4 +1,6 @@
-using static Shared.Infrastructure.Extensions.ServiceCollectionExtensions;
+using Module.Customer.Extensions;
+using Module.Product.Extensions;
+using Shared.Infrastructure.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddSharedInfrastructure(builder.Configuration);
+
+builder.Services.AddProductModule(builder.Configuration);
+builder.Services.AddCustomerModule(builder.Configuration);
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

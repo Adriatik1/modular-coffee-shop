@@ -12,3 +12,4 @@ C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\ob
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\bin\Debug\net8.0\Shared.Infrastructure.runtimeconfig.json
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.genruntimeconfig.cache
+C:\Users\Adriatik\source\repos\ModularCoffeeShop\Shared\Shared.Infrastructure\obj\Debug\net8.0\Shared.Infrastructure.sourcelink.json

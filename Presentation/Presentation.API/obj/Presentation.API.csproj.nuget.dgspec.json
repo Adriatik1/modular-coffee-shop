@@ -4,6 +4,137 @@
     "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Presentation\\Presentation.API\\Presentation.API.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Core\\Module.Customer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Core\\Module.Customer.Core.csproj",
+        "projectName": "Module.Customer.Core",
+        "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Core\\Module.Customer.Core.csproj",
+        "packagesPath": "C:\\Users\\Adriatik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adriatik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\local-nuget-feed": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ComitasAG/_packaging/Comitas.CAF/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Core\\Shared.Core.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Core\\Shared.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Infrastructure\\Module.Customer.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Infrastructure\\Module.Customer.Infrastructure.csproj",
+        "projectName": "Module.Customer.Infrastructure",
+        "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Infrastructure\\Module.Customer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Adriatik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adriatik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\local-nuget-feed": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ComitasAG/_packaging/Comitas.CAF/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Core\\Module.Customer.Core.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Core\\Module.Customer.Core.csproj"
+              },
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Infrastructure\\Shared.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Infrastructure\\Shared.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer\\Module.Customer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -29,7 +160,145 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Core\\Module.Customer.Core.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Core\\Module.Customer.Core.csproj"
+              },
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Infrastructure\\Module.Customer.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Customer\\Module.Customer.Infrastructure\\Module.Customer.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Core\\Module.Product.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Core\\Module.Product.Core.csproj",
+        "projectName": "Module.Product.Core",
+        "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Core\\Module.Product.Core.csproj",
+        "packagesPath": "C:\\Users\\Adriatik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adriatik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\local-nuget-feed": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ComitasAG/_packaging/Comitas.CAF/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Core\\Shared.Core.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Core\\Shared.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Infrastructure\\Module.Product.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Infrastructure\\Module.Product.Infrastructure.csproj",
+        "projectName": "Module.Product.Infrastructure",
+        "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Infrastructure\\Module.Product.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Adriatik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adriatik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\local-nuget-feed": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ComitasAG/_packaging/Comitas.CAF/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Core\\Module.Product.Core.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Core\\Module.Product.Core.csproj"
+              },
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Infrastructure\\Shared.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Infrastructure\\Shared.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -86,7 +355,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Core\\Module.Product.Core.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Core\\Module.Product.Core.csproj"
+              },
+              "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Infrastructure\\Module.Product.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Modules\\Product\\Module.Product.Infrastructure\\Module.Product.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -172,6 +448,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.5, )"
@@ -196,6 +478,69 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Core\\Shared.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Core\\Shared.Core.csproj",
+        "projectName": "Shared.Core",
+        "projectPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Core\\Shared.Core.csproj",
+        "packagesPath": "C:\\Users\\Adriatik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adriatik\\source\\repos\\ModularCoffeeShop\\Shared\\Shared.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adriatik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\local-nuget-feed": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ComitasAG/_packaging/Comitas.CAF/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Module.Customer.Core\Module.Customer.Core.csproj" />
+    <ProjectReference Include="..\Module.Customer.Infrastructure\Module.Customer.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
