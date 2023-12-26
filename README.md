@@ -44,11 +44,6 @@ The application uses a single database with different schemas for each module. T
 
 1. Clone the repository.
 2. Build the solution using your preferred IDE or the command line.
-3. Update the database using migrations.
-
-```bash
-dotnet ef database update
-```
 
 4. Run the application.
 
